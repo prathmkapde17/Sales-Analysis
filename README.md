@@ -1,6 +1,6 @@
 # 📊 Data Analytics in Sales Domain
 
-[🔗 **View Power BI Dashboard**]((https://app.powerbi.com/view?r=eyJrIjoiMDBkZGQ5YzMtOTQ2YS00MGQ3LTgxN2YtNzU2MTE2NWMxNTBhIiwidCI6ImE2ZWY1YTM2LWUyYmYtNDI1Ni05ODAyLTA4MTA4ZWIwOTEzYSJ9))
+[🔗 **View Power BI Dashboard**]([https://app.powerbi.com/view?r=your_dashboard_link_here](https://app.powerbi.com/view?r=eyJrIjoiMDBkZGQ5YzMtOTQ2YS00MGQ3LTgxN2YtNzU2MTE2NWMxNTBhIiwidCI6ImE2ZWY1YTM2LWUyYmYtNDI1Ni05ODAyLTA4MTA4ZWIwOTEzYSJ9))
 
 ---
 
