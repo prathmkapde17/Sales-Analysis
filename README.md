@@ -1,28 +1,89 @@
-# Data Analytics in Sales Domain
+# 📊 Data Analytics in Sales Domain
 
-## Overview
-This project focuses on applying data analytics techniques to the sales domain. The goal is to derive insights that can help improve sales performance and drive business strategies.
-
-## Excel Sheet
-- The Excel file provided in the repository is used in the project.
-
-## Files Included
-- Detailed reports
-- Code files
-- Documentation on analytics methodologies
-- Visualizations and dashboards
-
-## How to Contribute
-1. Star the repository if you find it useful.
-2. Leave a comment with your thoughts or questions.
-3. Share the project with others who might benefit from it.
-
-## Video
-Project Video: https://youtu.be/LOPnZclka0o
-
-## Contact
-For inquiries or collaboration opportunities, please reach out via GitHub.
+[🔗 **View Power BI Dashboard**]([https://app.powerbi.com/view?r=your_dashboard_link_here](https://app.powerbi.com/view?r=eyJrIjoiMDBkZGQ5YzMtOTQ2YS00MGQ3LTgxN2YtNzU2MTE2NWMxNTBhIiwidCI6ImE2ZWY1YTM2LWUyYmYtNDI1Ni05ODAyLTA4MTA4ZWIwOTEzYSJ9))
 
 ---
 
-Thank you for your support! Your engagement helps improve the project and make more resources available.
+## 📌 Project Overview
+
+Welcome to the **Regional Sales Analysis** project! This end-to-end data analytics project leverages 5 years of historical U.S. sales data to uncover actionable insights through **Exploratory Data Analysis (EDA)** and an **interactive Power BI dashboard**.
+
+The goal? 📈  
+To **understand regional performance**, **optimize product/channel strategies**, and **drive data-driven decisions**.
+
+---
+
+## 🧩 Problem Statement
+
+Despite strong product offerings, inconsistent revenue and profitability across U.S. regions raised questions:
+- ❓ Which regions or products perform best?
+- 📉 Why are there seasonal dips in performance?
+- 💡 How can we make smarter marketing and sales decisions?
+
+---
+
+## 🧠 Our Approach
+
+The project follows a two-phase strategy:
+
+### 1️⃣ Exploratory Data Analysis (EDA)
+- Cleaned and merged multiple datasets
+- Engineered new features like `profit` and `profit_margin_pct`
+- Analyzed trends across products, regions, channels, and customers
+- Visualized sales patterns, seasonality, and top SKUs
+
+### 2️⃣ Interactive Power BI Dashboard
+- Self-service insights for stakeholders
+- Real-time slicing by product, region, and time
+- Strategic views on revenue, margins, and customer segments
+
+---
+
+## 📌 Key Insights
+
+- 📅 **Seasonality:** Revenue dips in January; peaks in May–June
+- 💼 **Top SKUs:** Products 25 & 26 contribute ~25% of sales
+- 🧑‍🤝‍🧑 **Customer Value:** Aibox Company dominates with high revenue
+- 🌎 **Regional Wins:** California leads in both revenue & orders
+- 🔄 **Channel Mix:** Wholesale generates 54% of sales, but Export has higher margins
+
+---
+
+## ✅ Recommendations
+
+- 🎯 Focus marketing on peak/off-peak seasons
+- 📦 Expand successful SKUs; retire low-margin products
+- 💰 Review pricing for large accounts with lower profit margins
+- 🌐 Replicate high-performing states' strategies in underperforming regions
+
+---
+
+## 📂 Project Files
+
+- `EDA_Regional_Sales_Analysis.ipynb` - Jupyter Notebook for EDA
+- `Sales_data(EDA Exported).csv` - Cleaned dataset
+- `Regional Sales Dataset.xlsx` - Original raw data
+- `SALES REPORT.pbix` - Power BI dashboard file
+- `README.md` - Project documentation
+- `PPT - Regional Sales Analysis.pptx` - Presentation overview
+
+---
+
+## 🤝 Contributing
+
+We'd love your feedback and collaboration!
+
+1. ⭐ Star this repo if you find it helpful  
+2. 📝 Open issues or suggestions  
+3. 🔁 Fork and improve the project  
+
+---
+
+## 📬 Contact
+
+For collaborations or questions, reach out via [GitHub](https://github.com/prathmkapde17).
+
+---
+
+> 🚀 *Empowering smarter business decisions through data!*
+
